@@ -1,4 +1,4 @@
-<h1 align="center">Stats</h1>
+<h1 align="center" alt="Stats">ꜱᴛᴀᴛꜱ</h1>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img alt="griffi-gh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=griffi-gh" align="center" height="200">
