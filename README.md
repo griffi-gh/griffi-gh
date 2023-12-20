@@ -1,15 +1,14 @@
-<h1 align="center" alt="Stats">ꜱᴛᴀᴛꜱ</h1>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="griffi-gh's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=griffi-gh" align="center" height="200">
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=griffi-gh&langs_count=3" align="center" height="200">
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=griffi-gh">
-  </a>
-</p>
-    
+<h3>👋&nbsp;Hi!</h1>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=griffi-gh&theme=github_dark" height="151">
+<div align="left">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=griffi-gh&theme=github_dark" align="left" height="150">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=griffi-gh&theme=github_dark" align="left" height="150">
+  &nbsp;<br clear="all">
+</div>
+<br>
+<ul>
+  <li><b>IDE:</b>&nbsp;&nbsp;<img src="https://code.visualstudio.com/assets/images/code-stable.png" width="16" height="16">&nbsp;VS&nbsp;Code&nbsp;(VSCodium)</li>
+  <li><b>OS:</b>&nbsp;&nbsp;Arch&nbsp;Linux<sup>(btw)</sup>;&nbsp;Windows</li>
+  <li><b>BROWSER:</b>&nbsp;&nbsp;Firefox</li>
+  <li>rust&nbsp;<3</li>
+</ul>
