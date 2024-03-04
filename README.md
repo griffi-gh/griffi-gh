@@ -1,4 +1,4 @@
-<h3>👋&nbsp;Hi!</h1>
+<!--<h3>👋&nbsp;Hi!</h1>-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=griffi-gh&theme=github_dark" height="151">
 <div align="left">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=griffi-gh&theme=github_dark" align="left" height="150">
