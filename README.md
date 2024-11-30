@@ -7,9 +7,9 @@
 </div>
 <br>
 <p>
-  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="48" height="48">
   <img src="https://nixos.wiki/images/thumb/2/20/Home-nixos-logo.png/414px-Home-nixos-logo.png" width="55.5" height="48">
   <img src="https://rust-lang.org/logos/rust-logo-256x256.png" width="48" height="48">
+  <img src="https://code.visualstudio.com/assets/images/code-stable.png" width="48" height="48">
   :3
 </p>
 <!--
