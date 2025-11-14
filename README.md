@@ -18,7 +18,7 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
   - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for  amazfit's zepp-based watches
 - [beefk-jit](https://github.com/griffi-gh/beefk-jit) - jit x86_64 compiler for [brainfuck](https://esolangs.org/wiki/Brainfuck)
 - [badUIbattles](https://www.reddit.com/r/badUIbattles/) stuff
-  - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text
+  - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text (doesn't work in firefox)
   - [thing](https://griffi-gh.github.io/thing/) - cursor... thing (try it)
   
 in addition, i also:
