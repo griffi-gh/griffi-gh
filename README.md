@@ -40,7 +40,7 @@ in addition, i also:
 
 ## hardware/software im using
 
-- my primary machine is a [Framework 13](https://frame.work/laptop13) with Ryzen 7640U, kitted out with 24 gb of ram
+- my primary machine is a [Framework 13](https://frame.work/laptop13) with Ryzen 7640U, diy edition + 24 gb of ram and a 1 tb ssd
 - main os: [NixOS](https://nixos.org/), i use it on both my personal machines and servers i run for self-hosted/homelab stuff
   - server config: [github.com/girl-pp-ua/nixos-infra](https://github.com/girl-pp-ua/nixos-infra) (this is the cleaner one)
   - main (messy) nixos config i run on my main laptop: [git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos)
