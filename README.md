@@ -8,7 +8,7 @@ haii :3
 
 ## other misc projects i worked on
 
-- [vvvvvv-psp](github.com/griffi-gh/vvvvvv-psp) - scuffed homebrew port of terry cavanagh's vvvvvv to the sony psp
+- [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - scuffed homebrew port of terry cavanagh's vvvvvv to the sony psp
 
 ## notable-ish contributions
 
