@@ -3,8 +3,8 @@ haii :3
 ## contact me
 
 - email: `luna.prasol [at] proton.me`, `prasol258 [at] gmail.com`
-- discord: [`@v0xl`](https://discord.com/users/349902183434813450)
 - matrix: [`@voxel:nyanbinary.rs`](https://matrix.to/#/@voxel:nyanbinary.rs) (might not always respond)
+- discord: [`@v0xl`](https://discord.com/users/349902183434813450) (preferred)
 
 ## some of the cursed stuff i worked on
 
