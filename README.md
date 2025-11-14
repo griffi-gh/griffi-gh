@@ -45,3 +45,7 @@ in addition, i also:
   - server config: [github.com/girl-pp-ua/nixos-infra](https://github.com/girl-pp-ua/nixos-infra) (this is the cleaner one)
   - main (messy) nixos config i run on my main laptop: [git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos)
 - i edit stuff primarily using [Zed](https://zed.dev/), but fallback to vscode for some stuff
+
+<p align="right">
+  <img src="https://cdn.discordapp.com/emojis/885559196324597810.webp?size=160" width="32">
+</p>
