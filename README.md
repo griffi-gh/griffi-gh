@@ -35,7 +35,7 @@ in addition, i also:
 ## notable-ish foss contributions
 
 - [github.com/NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3Agriffi-gh) - contributor and maintainer of some nix packages
-- [github.com/Bithack/principia](https://github.com/Bithack/principia/pulls?q=is%3Apr+author%3Agriffi-gh) - migration to gtk3, features/bugfixes
+- [github.com/Bithack/principia](https://github.com/Bithack/principia/pulls?q=is%3Apr+author%3Agriffi-gh) - migration to gtk3, imgui backend, features/bugfixes
 - [git.afnix.fr/arcana/arcana](https://git.afnix.fr/arcana/arcana/pulls/14) - node alias support
 
 ## repos on other git forges
