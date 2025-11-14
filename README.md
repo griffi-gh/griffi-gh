@@ -10,7 +10,7 @@ here's a _non-exhaustive_ list of stuff i made with my paws:
 - PSP homebrew
   - [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - homebrew port of [terry cavanagh's vvvvvv](https://thelettervsixtim.es/) to the sony psp \
     (unfortunately i couldnt get music to fit in it's 32 mb of usable ram, since the game relies on pre-loaded binary blob to store it)
-  - [psp-gfx-rs](https://github.com/griffi-gh/psp-gfx-rs) - unfinished safe graphics library for the psp
+  - [psp-gfx-rs](https://github.com/griffi-gh/psp-gfx-rs) - unfinished safe graphics library for the psp in rust
 - ZeppOS mini-apps
   - [zepp-fediclient](https://github.com/griffi-gh/zepp-fediclient) - mastodon client for amazfit' zepp-based watches
   - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for
