@@ -36,3 +36,9 @@ in addition, i also:
 | project       | description             | link                                                         |
 | ------------- | ----------------------- | ------------------------------------------------------------ |
 | `nixos`       | my NixOS configuration  | [↗ git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos) |
+
+## hardware/software im using
+
+- my primary machine is a [Framework 13](https://frame.work/laptop13) with Ryzen 7640U, kitted out with 24 gb of ram
+- main os: [NixOS](https://nixos.org/), i use it on both my personal machines and servers i run for self-hosted/homelab stuff
+- i edit stuff primarily in [Zed](https://zed.dev/), but fallback to vscode for some stuff
