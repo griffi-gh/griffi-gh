@@ -15,7 +15,10 @@ here's a _non-exhaustive_ list of stuff i made with my paws:
   - [zepp-fediclient](https://github.com/griffi-gh/zepp-fediclient) - mastodon client for amazfit' zepp-based watches
   - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for
 - [beefk-jit](https://github.com/griffi-gh/beefk-jit) - jit x86_64 compiler for [brainfuck](https://esolangs.org/wiki/Brainfuck)
-
+- [badUIbattles](https://www.reddit.com/r/badUIbattles/) stuff
+  - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text
+  - [thing](https://griffi-gh.github.io/thing/) - cursor... thing (try it)
+  
 in addition, i also:
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
 - worked on couple of uefn (unreal engine for fortnite) projects
