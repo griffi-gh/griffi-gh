@@ -2,11 +2,13 @@ haii :3
 
 ## some of the cursed stuff i worked on
 
-here's a _non-exhaustive_ list of stuff i made with my paws:
+here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 
 - [kubi](https://github.com/griffi-gh/) - voxel engine with multiplayer networking and multhreaded procedural worldgen, made with [wgpu](https://wgpu.rs/)
   - [hui](https://github.com/griffi-gh/hUI) - custom semi-immediate-mode ui library (initially made for kubi)
-- [yarge](https://github.com/griffi-gh/yarge) - yet another rust gameboy emulator, somewhat accurate
+- emudev stuff
+  - [yarge](https://github.com/griffi-gh/yarge) - yet another rust gameboy emulator, somewhat accurate
+  - [minish](https://github.com/griffi-gh/minish) - chip-8 interpreter in less than 1.5kb of lua
 - sony psp homebrew
   - [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - homebrew port of [terry cavanagh's vvvvvv](https://thelettervsixtim.es/) to the sony psp \
     (unfortunately i couldnt get music to fit in it's 32 mb of usable ram, since the game relies on pre-loaded binary blob to store it)
