@@ -4,23 +4,23 @@ haii :3
 
 here's a _non-exhaustive_ list of stuff i made with my paws:
 
-- [kubi](https://github.com/griffi-gh/) - voxel engine with multiplayer networking and multhreaded procedural worldgen, made with wgpu
+- [kubi](https://github.com/griffi-gh/) - voxel engine with multiplayer networking and multhreaded procedural worldgen, made with [wgpu](https://wgpu.rs/)
   - [hui](https://github.com/griffi-gh/hUI) - custom semi-immediate-mode ui library (initially made for kubi)
 - [yarge](https://github.com/griffi-gh/yarge) - yet another rust gameboy emulator, somewhat accurate
 - PSP homebrew
-  - [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - homebrew port of terry cavanagh's vvvvvv to the sony psp \
-    (unfortunately i couldnt get music to fit in it's 16 mb of usable ram)
+  - [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - homebrew port of [terry cavanagh's vvvvvv](https://thelettervsixtim.es/) to the sony psp \
+    (unfortunately i couldnt get music to fit in it's 32 mb of usable ram, since the game relies on pre-loaded binary blob to store it)
   - [psp-gfx-rs](https://github.com/griffi-gh/psp-gfx-rs) - unfinished safe graphics library for the psp
 - ZeppOS mini-apps
   - [zepp-fediclient](https://github.com/griffi-gh/zepp-fediclient) - mastodon client for amazfit' zepp-based watches
   - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for
-- [beefk-jit](https://github.com/griffi-gh/beefk-jit) - jit x86_64 compiler for brainfuck
+- [beefk-jit](https://github.com/griffi-gh/beefk-jit) - jit x86_64 compiler for [brainfuck](https://esolangs.org/wiki/Brainfuck)
 
 in addition, i also:
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
 - worked on couple of uefn (unreal engine for fortnite) projects
 
-## notable-ish contributions
+## notable-ish foss contributions
 
 - [github.com/NixOS/nixpkgs](https://github.com/NixOS/nixpkgs/pulls?q=is%3Apr+author%3Agriffi-gh) - nix packages
 - [github.com/Bithack/principia](https://github.com/Bithack/principia/pulls?q=is%3Apr+author%3Agriffi-gh) - migration to gtk3, features/bugfixes
