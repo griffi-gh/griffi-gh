@@ -4,7 +4,11 @@ haii :3
 
 | project       | description             | link                                                         |
 | ------------- | ----------------------- | ------------------------------------------------------------ |
-| `nixos`       | My NixOS configuration  | [↗ git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos) |
+| `nixos`       | my NixOS configuration  | [↗ git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos) |
+
+## other misc projects i worked on
+
+- [vvvvvv-psp](github.com/griffi-gh/vvvvvv-psp) - scuffed homebrew port of terry cavanagh's vvvvvv to the sony psp
 
 ## notable-ish contributions
 
