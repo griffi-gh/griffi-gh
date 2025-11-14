@@ -26,11 +26,13 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 - [badUIbattles](https://www.reddit.com/r/badUIbattles/) stuff
   - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text (doesn't work in firefox)
   - [thing](https://griffi-gh.github.io/thing/) - cursor... thing (try it)
-- project devlootbox - fetch, cache, archive and notify on limited free-time offers from [fab](https://www.fab.com/) (not public at the moment)
+
   
 in addition, i also:
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
 - worked on couple of uefn (unreal engine for fortnite) projects
+- worked on project devlootbox: fetches, caches, archives and notifies of limited-time free offers from [fab](https://www.fab.com/)\
+  (not public at the moment)
 
 ## notable-ish foss contributions
 
