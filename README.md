@@ -12,8 +12,8 @@ here's a _non-exhaustive_ list of stuff i made with my paws:
     (unfortunately i couldnt get music to fit in it's 32 mb of usable ram, since the game relies on pre-loaded binary blob to store it)
   - [psp-gfx-rs](https://github.com/griffi-gh/psp-gfx-rs) - unfinished safe graphics library for the psp in rust
 - zeppos watch mini-apps
-  - [zepp-fediclient](https://github.com/griffi-gh/zepp-fediclient) - mastodon client for amazfit' zepp-based watches
-  - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for
+  - [zepp-fediclient](https://github.com/griffi-gh/zepp-fediclient) - mastodon client for amazfit's zepp-based watches
+  - [zepp-shell](https://github.com/griffi-gh/zepp-shell) - remote js shell for  amazfit's zepp-based watches
 - [beefk-jit](https://github.com/griffi-gh/beefk-jit) - jit x86_64 compiler for [brainfuck](https://esolangs.org/wiki/Brainfuck)
 - [badUIbattles](https://www.reddit.com/r/badUIbattles/) stuff
   - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text
