@@ -15,6 +15,8 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 - emudev projects
   - [yarge](https://github.com/griffi-gh/yarge) - yet another rust gameboy emulator, somewhat accurate
   - [minish](https://github.com/griffi-gh/minish) - chip-8 interpreter in less than 1.5kb of lua
+- palm os thingys
+  - [nix-palm-os](https://github.com/griffi-gh/nix-palm-os) - palm os utilites, sdks and build tools packaged as nix packages for building reproducible palm os projects :3
 - sony psp homebrew
   - [vvvvvv-psp](https://github.com/griffi-gh/vvvvvv-psp) - homebrew port of [terry cavanagh's vvvvvv](https://thelettervsixtim.es/) to the sony psp \
     (unfortunately i couldnt get music to fit in it's 32 mb of usable ram, since the game relies on pre-loaded binary blob to store it)
