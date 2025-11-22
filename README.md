@@ -8,10 +8,12 @@ haii :3
 
 ## some of the cursed stuff i worked on
 
+(since github has no way of neatly organizing pinned repos...)\
 here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 
 - [kubi](https://github.com/griffi-gh/) - voxel engine with multiplayer networking and multhreaded procedural worldgen, made with [wgpu](https://wgpu.rs/)
-  - [hui](https://github.com/griffi-gh/hUI) - custom semi-immediate-mode ui library (initially made for kubi)
+- [hui](https://github.com/griffi-gh/hUI) - custom semi-immediate-mode, backend-agnostic ui library (initially made for kubi)
+  - hui-painter - 2d rendering library used in hUI, currently supporting backends for wgpu and glium
 - emudev projects
   - [yarge](https://github.com/griffi-gh/yarge) - yet another rust gameboy emulator, somewhat accurate
   - [minish](https://github.com/griffi-gh/minish) - chip-8 interpreter in less than 1.5kb of lua
