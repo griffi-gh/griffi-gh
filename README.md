@@ -1,5 +1,3 @@
-# ➡️ https://codeberg.org/griffi-gh
-
 ## contact me
 
 - email: `luna.prasol [at] proton.me`, `prasol258 [at] gmail.com`
@@ -31,7 +29,6 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
   - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text (doesn't work in firefox)
   - [thing](https://griffi-gh.github.io/thing/) - cursor... thing (try it)
 
-  
 in addition, i also:
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
 - worked on couple of uefn (unreal engine for fortnite) projects
@@ -44,7 +41,7 @@ in addition, i also:
 - [github.com/Bithack/principia](https://github.com/Bithack/principia/pulls?q=is%3Apr+author%3Agriffi-gh) - migration to gtk3, imgui backend, features/bugfixes
 - [git.afnix.fr/arcana/arcana](https://git.afnix.fr/arcana/arcana/pulls/14) - node alias support
 
-## repos on other git forges
+## misc. repos
 
 | project       | description             | link                                                         |
 | ------------- | ----------------------- | ------------------------------------------------------------ |
