@@ -1,4 +1,4 @@
-haii :3
+# ➡️ see https://codeberg.org/griffi-gh for new projects
 
 ## contact me
 
