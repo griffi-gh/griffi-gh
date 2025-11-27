@@ -1,5 +1,3 @@
-# ➡️ see https://codeberg.org/griffi-gh for new projects
-
 ## contact me
 
 - email: `luna.prasol [at] proton.me`, `prasol258 [at] gmail.com`
