@@ -1,8 +1,9 @@
 ## contact me
 
 - email: `luna.prasol [at] proton.me`, `prasol258 [at] gmail.com`
-- matrix: [`@voxel:nyanbinary.rs`](https://matrix.to/#/@voxel:nyanbinary.rs) (might not always respond)
 - discord: [`@v0xl`](https://discord.com/users/349902183434813450) (preferred)
+- matrix: [`@voxel:nyanbinary.rs`](https://matrix.to/#/@voxel:nyanbinary.rs) (might not always respond)
+
 
 ## some of the cursed stuff i worked on
 
