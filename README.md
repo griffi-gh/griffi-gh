@@ -31,6 +31,7 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 - [badUIbattles](https://www.reddit.com/r/badUIbattles/) stuff
   - [badui-media](https://griffi-gh.github.io/badui-media/) - using audio/media controls to enter text (doesn't work in firefox)
   - [thing](https://griffi-gh.github.io/thing/) - cursor... thing (try it)
+- [tizen sdk for nix](https://github.com/griffi-gh/nix-tizen-sdk) - auto-generated wrappers for tizen sdk components
 
 in addition, i also:
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
