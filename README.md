@@ -49,7 +49,7 @@ in addition, i also:
 
 | project       | description             | link                                                         |
 | ------------- | ----------------------- | ------------------------------------------------------------ |
-| `nixos`       | my NixOS configuration  | [↗ git.gay/griffi-gh/nixos](https://git.gay/griffi-gh/nixos) |
+| `nixos`       | my NixOS configuration  | [↗ git.lunya.cc/luna/nixos](https://git.lunya.cc/luna/nixos) |
 
 ## hardware/software im using
 
