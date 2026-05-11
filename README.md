@@ -12,6 +12,7 @@
 (since github has no way of neatly organizing pinned repos...)\
 here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 
+- [klein](https://github.com/griffi-gh/klein) - 2d side-scroller platformer game using raytraced portals to create confusing, non-eucledian worlds (inspired by aaaaxy)
 - [kubi](https://github.com/griffi-gh/) - voxel engine with multiplayer networking and multhreaded procedural worldgen, made with [wgpu](https://wgpu.rs/)
 - [hui](https://github.com/griffi-gh/hUI) - custom semi-immediate-mode, backend-agnostic ui library (initially made for kubi)
   - hui-painter - 2d rendering library used in hUI, currently supporting backends for wgpu and glium
