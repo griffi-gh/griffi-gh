@@ -6,7 +6,6 @@
 - discord: [`@v0xl`](https://discord.com/users/349902183434813450) (preferred)
 - matrix: [`@voxel:nyanbinary.rs`](https://matrix.to/#/@voxel:nyanbinary.rs) (might not always respond)
 
-
 ## some of the cursed stuff i worked on
 
 (since github has no way of neatly organizing pinned repos...)\
@@ -35,6 +34,7 @@ here's a short, _very much non-exhaustive_ list of stuff i made with my paws:
 - [tizen sdk for nix](https://github.com/griffi-gh/nix-tizen-sdk) - auto-generated wrappers for tizen sdk components
 
 in addition, i also:
+- work on improving [SCALE](https://scale-lang.com/) at Spectral Compute
 - done some rust backend work as an internship at [@pyrohost](https://github.com/pyrohost/)
 - worked on couple of uefn (unreal engine for fortnite) projects
 - worked on project devlootbox: fetches, caches, archives and notifies of limited-time free offers from [fab](https://www.fab.com/)\
